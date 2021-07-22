@@ -1,0 +1,61 @@
+
+  "basics": {
+    "name": "DINESH KUMAR",
+    "email": "baludinesh205@gmail.com",
+    "website": "",
+    "phone": "+916382894613",
+    "location": {
+      "address": "veppur,india"
+    }
+  },
+  "education": [
+    {
+      "institution": "bishop heber college",
+      "location": "veppur",
+      "area": "COMMERCE",
+      "startDate": "june 2018",
+      "endDate": "may 2021",
+      "gpa": "8.6",
+      "studyType": "B.COM"
+    }
+  ],
+  "work": [
+    {
+      "location": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "TALLY",
+      "level": "",
+      "keywords": [
+        "MS OFFICE"
+      ]
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "MS OFFICE"
+    }
+  ],
+  "projects": [
+    {
+      "name": "NIL",
+      "description": "NIL",
+      "url": "NIL",
+      "keywords": [
+        ""
+      ]
+    }
+  
+  
+  ],
+  
+}
