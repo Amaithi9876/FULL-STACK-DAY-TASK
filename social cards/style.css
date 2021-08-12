@@ -1,0 +1,26 @@
+body{
+    background-color: greenyellow;
+}
+.fa{
+    color: blue;
+}
+.box-center{
+    background-color: white;
+    margin: 10px;
+    padding: 60px 0px;
+}
+.box{
+    padding:60px 10px;
+}
+.text{
+    margin: 30px 0px;
+}
+body{
+    background-color: orange;
+}
+h3{
+    color: red;
+}
+h1{
+    text-align: center;
+}
